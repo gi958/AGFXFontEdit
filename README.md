@@ -6,3 +6,4 @@
 <li> Импорт шрифтов установленных в Windows.</li>
 <li> Импорт изображений из файлов: *.BMP,*.JPG,*.PNG,*.ICO.</li>
 <li> Открытие и редакирование файла glcdfont.c.</li>
+<br><IMG src="screenshot.png">
